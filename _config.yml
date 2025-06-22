@@ -1,5 +1,5 @@
 title: LukePlayzIE
 description: The Official LukePlayzIE Website - MD v1.0
-remote_theme: riggraz/no-style-please
+remote_theme: hemngsk/DevJournal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
